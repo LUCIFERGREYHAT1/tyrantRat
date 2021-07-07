@@ -35,7 +35,7 @@ A cloud based remote android managment suite, powered by NodeJS
 
 2. Clone `git clone https://github.com/LUCIFERGREYHAT1/tyrantRat.git`
 
-3. Goto server directory `cd haxRat/server`
+3. Goto server directory `cd tyrantRat/server`
 
 4. Install all dependencies `npm install`
 
