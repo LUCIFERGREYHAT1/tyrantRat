@@ -3,31 +3,52 @@
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlqh70DzxUIwh08dpOzmZmCxm0t44h1q3xug&usqp=CAU"></p>
 <p align="center">
 <img src="https://github.com/LUCIFERGREYHAT1/tyrantRat/blob/main/server/assets/webpublic/logo.png" height="60"><br>
-A cloud based remote android managment suite, powered by NodeJS
+a cloud-based remote Android management suite powered by Node.js involves several key
 </p>
 
 
 
-## Features
-- Screenshot Capture
-- Screen Recorder
-- Rear Camera Recorder
-- Front Camera Recorder
-- Lock Device
-- GPS Logging
-- Microphone Recording
-- View Contacts
-- SMS Logs
-- Send SMS
-- Call Logs
-- View Installed Apps
-- View Stub Permissions
-- Live Clipboard Logging
-- Live Notification Logging
-- View WiFi Networks (logs previously seen)
-- File Explorer & Downloader
-- Command Queuing
-- Built In APK Builder
+# Key Features:
+
+## Screenshot Capture: 
+## Capture screenshots: 
+   from managed devices to monitor usage and compliance.
+## Screen Recorder: 
+   Record device screens to document user activity and troubleshoot issues.
+## Rear Camera Recorder:  
+   Remotely activate the rear camera to capture images or videos for security purposes.
+## Front Camera Recorder: 
+   Utilize the front camera for real-time monitoring and capturing visuals.
+## Lock Device: 
+   Securely lock devices remotely to prevent unauthorized access.
+## GPS Logging:
+   Track the geographic location of devices to ensure their security and proper usage.
+## Microphone Recording:
+   Remotely activate the microphone to record audio for compliance and security.
+## View Contacts:
+   Access and manage contact lists stored on the device.
+## SMS Logs: 
+   Review logs of SMS messages sent and received on the device.
+## Send SMS: 
+   Send SMS messages from the managed devices remotely.
+## Call Logs:
+   Access call logs to monitor incoming and outgoing calls.
+## View Installed Apps: 
+   Get a list of all applications installed on the device for management and compliance checks.
+## View Stub Permissions: 
+   Review permissions granted to installed apps to ensure security and privacy.
+## Live Clipboard Logging:
+   Monitor clipboard activities in real-time for data loss prevention.
+## Live Notification Logging: 
+   Track and log notifications received on the device in real-time.
+## View WiFi Networks (logs previously seen):
+   Access logs of previously connected WiFi networks for audit purposes.
+## File Explorer & Downloader: 
+   Explore the device's file system and download files remotely.
+## Command Queuing: 
+   Queue commands to be executed on the device, even if it's currently offline.
+## Built-In APK Builder:
+   Generate custom APKs directly from the management interface for deployment.
 
 ## TODO
 - Call Blocker
